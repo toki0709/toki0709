@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @toki0709
-- 👀 I’m interested in webapp programming, data analysis
-- 🌱 I’m currently learning python OOP for Django framework.
+- 👋 Hi, I’m Toki Tazwar
+- 👀 I’m interested in webapp programming, data analysis, machine learning :p
+- 🌱 I’m currently learning machine learning models along with React.JS
 - 📫 How to reach me .. send an email to tokitazwar71@gmail.com
 
 <!---
