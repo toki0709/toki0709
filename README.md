@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Toki Tazwar
 - 👀 I’m interested in software development, data engineering, machine learning and DevOps engineering.
-- 🌱 I have recently attended Bosch AI Talent Accelarator Program: Azure DevOps.
+- 🌱 I have recently attended Bosch AI Talent Accelarator Scholarship Program: Azure DevOps.
 - 📫 How to reach me .. send an email to toki_tazwar@yahoo.com
 
 <!---
